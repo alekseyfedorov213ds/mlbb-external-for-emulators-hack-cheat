@@ -1,0 +1,17 @@
+map_x=-2
+map_y=0
+map_w=451
+map_h=454
+map_scale=2.9
+map_off_x=0
+map_off_y=0
+map_rotate=1
+esp_enabled=1
+esp_show_enemy=1
+esp_show_ally=0
+esp_show_hp=1
+esp_show_name=0
+esp_show_dist=0
+esp_show_lines=1
+esp_box_thick=2.5
+esp_icon_size=60
